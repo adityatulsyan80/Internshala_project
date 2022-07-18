@@ -1,0 +1,19 @@
+{
+  "name": "internshala_project",
+  "description": "it contains 9 files using which I have created a form using react",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adityatulsyan80/Internshala_project.git"
+  },
+  "keywords": [],
+  "author": {
+      "name" : "Aditya Tulsyan",
+      "email": "adityatulsyan80@gmail.com"
+  }
+    "license": "ISC",
+  "homepage": "https://github.com/adityatulsyan80/Internshala_project"
+}
